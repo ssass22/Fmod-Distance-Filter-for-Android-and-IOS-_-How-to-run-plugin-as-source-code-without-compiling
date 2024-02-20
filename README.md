@@ -1,5 +1,5 @@
 # Fmod-Distance-Filter-for-Android-and-IOS-_-How-to-run-plugin-as-source-code-without-compiling
-Here is instruction on how to use bare .cpp plugin for unity ,ue - from fmod programer jeff_fmod. 
+Here is instruction on how to use bare .cpp plugin for unity ,ue - from fmod programer jeff_fmod. as example used fmod distance filter.
 
 You Can static link the source code. Here are the steps to do so:
 1. Open the distance “fmod_distance_filter.cpp” file in a text editor and change the fmod.hpp include to fmod.h- this is just for compliance with Unity’s source requirements.
