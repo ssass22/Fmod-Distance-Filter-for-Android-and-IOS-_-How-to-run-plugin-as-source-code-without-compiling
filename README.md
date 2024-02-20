@@ -34,4 +34,4 @@ With that, you should be able to build for Android, and your banks should load w
 This instruction fully copied from https://qa.fmod.com/t/cant-properly-load-vorbis-compressed-bank-help-please/21226/6
 thanks to Author is jeff_fmod Programmer
 
-from me: i belive with some changes it can be applied to Unreal engine too. not 100% sure
+from me: tested on android -works, i belive with some changes it can be applied to Unreal engine too. and for ios, not 100% sure
